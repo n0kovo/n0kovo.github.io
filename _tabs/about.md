@@ -22,7 +22,7 @@ root@thegibson:/tmp# cat interests
 [+] Privacy
 [+] Data hoarding
 
-root@thegibson:/tmp# ./socials
+root@thegibson:/tmp# cat socials
 [+] GitHub = 		https://github.com/narkopolo
 [+] Twitter = 		https://twitter.com/nark0polo
 [+] HackTheBox = 	https://app.hackthebox.com/users/13267
