@@ -37,6 +37,20 @@ root@thegibson:/tmp# cat cons
 [+] Chaos Communication Congress - 35C3, Leipzig (2018)
 [+] Chaos Communication Congress - 36C3, Leipzig (2019)
 
+root@thegibson:/tmp# cat software
+----==Software I'm very comfortable with:==---
+[+] GNU/Linux (12 years)
+[+] MacOS (8 years)
+[+] Python3 (10 years)
+[+]  - Requests, BeautifulSoup, TQDM, Selenium, Rich...
+[+] Kali Linux (9 years)
+[+] Burp Suite Pro (3 years)
+[+] Nmap (9 years)
+[+] SQLMap (9 years)
+[+] Patator (2 years)
+[+] Adobe Photoshop (10+ years)
+[+] Final Cut Pro X (5 years)
+
 root@thegibson:/tmp# cat socials
 [+] GitHub = 		https://github.com/narkopolo
 [+] Twitter = 		https://twitter.com/nark0polo
