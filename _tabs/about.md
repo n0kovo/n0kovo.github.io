@@ -55,6 +55,8 @@ root@thegibson:/tmp# cat socials
 [+] GitHub = 		https://github.com/narkopolo
 [+] Twitter = 		https://twitter.com/nark0polo
 [+] HackTheBox = 	https://app.hackthebox.com/users/13267
+[+] Matrix = 		@narkopolo:matrix.org
+[+] Keybase =	 	https://keybase.io/narkopolo
 
 root@thegibson:/tmp# exit
  
