@@ -80,7 +80,7 @@ theme_mode:   dark
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://narkopolo.github.io/assets/img/'
-img_cdn: https://narkopolo.github.io/assets/img
+img_cdn: https://narkopolo.github.io/assets/img/
 
 # the avatar on sidebar, support local or CORS resources
 avatar: assets/img/QdS9xRzR_400x400.png
