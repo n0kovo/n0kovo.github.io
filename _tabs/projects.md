@@ -26,7 +26,7 @@ order: 1
 	A tool for generating wordlists of Danish phone numbers by area and/or usage (Mobile, landline etc.) Useful for password cracking or fuzzing Danish targets.
 
 * ### [CVE-2021-39174 PoC](https://github.com/narkopolo/CVE-2021-39174-PoC)
-	A quick exploit I wrote for an Information Exposure vulnerability in Cachet, an open source status page system, while doing the Catch box on HTB. The script was [used by Ippsec while doing the same box](https://youtu.be/XAZI361XgRU?t=1164) 😎
+	A quick exploit I wrote for an Information Exposure vulnerability in Cachet, an open source status page system, while doing the Catch box on HTB. The script was [used by Ippsec while doing the same box](https://youtu.be/XAZI361XgRU?t=1164) which is the main reason I'm including it here 😎
 
 * ### [cURL to SQLMap](https://github.com/narkopolo/curl_to_sqlmap)
 	A Python script to quickly convert cURL command syntax into SQLMap command syntax. Extremely handy when used in combination with the "Copy as cURL" option in Dev Tools.
