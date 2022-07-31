@@ -1,7 +1,6 @@
 ---
-layout: projects
+layout: about
 title: Projects
 order: 1
 ---
 
-test
