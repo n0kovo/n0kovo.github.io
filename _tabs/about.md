@@ -4,5 +4,29 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+
+```console
+root@thegibson:/tmp# whoami
+30-something hacker from Denmark
+
+root@thegibson:/tmp# ./interests
+[+] CTF
+[+] Penetration testing
+[+] OSINT
+[+] Python
+[+] Linux
+[+] Web scraping
+[+] Password security
+[+] Web app security
+[+] Digital rights
+[+] Privacy
+[+] Data hoarding
+
+root@thegibson:/tmp# ./socials
+[+] GitHub = 		https://github.com/narkopolo
+[+] Twitter = 		https://twitter.com/nark0polo
+[+] HackTheBox = 	https://app.hackthebox.com/users/13267
+
+root@thegibson:/tmp# exit
+ 
+```
