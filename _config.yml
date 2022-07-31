@@ -79,8 +79,7 @@ theme_mode:   dark
 # Notice that once it is assigned, the CDN url
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
-# e.g. 'https://narkopolo.github.io/assets/img/'
-img_cdn: https://narkopolo.github.io/assets/img/
+img_cdn: 
 
 # the avatar on sidebar, support local or CORS resources
 avatar: QdS9xRzR_400x400.png
