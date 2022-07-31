@@ -10,8 +10,8 @@ root@thegibson:/tmp# whoami
 30-something hacker from Denmark
 
 root@thegibson:/tmp# cat interests
-[+] CTF
 [+] Penetration testing
+[+] CTF
 [+] OSINT
 [+] Python
 [+] Linux
