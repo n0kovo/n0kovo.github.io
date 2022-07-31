@@ -4,7 +4,7 @@ icon: fas fa-file-code
 order: 1
 ---
 
-### A bunch of stuff I've made:
+### A bunch of stuff I've made and published:
 
 * ### [OpenRandonaut](https://github.com/openrandonaut/openrandonaut-bot)
 	An attempt at open-sourcing the functionality of the app Randonatica, which is based on software by the [Fatum Project](https://github.com/anonyhoney/fatum-en). Written in Python.<br><br> The script uses the [quantumrandom](https://github.com/lmacken/quantumrandom) library to interface with the [ANU Quantum Random Number Generator](https://qrng.anu.edu.au/), where it gets a list of [truly random](https://en.wikipedia.org/wiki/Hardware_random_number_generator#Quantum_random_properties) numbers, converts them to coordinates and then uses [SciPy](https://github.com/scipy/scipy) to compute the gaussian kernel density estimate of those coordinates. The script can be interacted with through a Telegram-bot. <br><br>If you're unfamiliar with The Fatum Project and the concepts of Probability Blind-Spots and Quantum Randomness, I recommend reading [fatum_theory.txt](https://github.com/anonyhoney/fatum-en/blob/master/docs/fatum_theory.txt) which shipped with the original Fatum bot. [This video](https://www.youtube.com/watch?v=6C6aXta3m1M) gives a lot of great background info too. If you have no idea what any of this is about, watch [this video](https://www.youtube.com/watch?v=nDX81AUm8yE) and/or read [this article](https://medium.com/swlh/randonauts-how-a-random-number-generator-can-set-you-free-dfc2a2413e15).<br><br>Technologies used: [SciPy](https://scipy.org/), [NumPy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), [Pandas](https://pandas.pydata.org/), [Seaborn](https://github.com/mwaskom/seaborn).
