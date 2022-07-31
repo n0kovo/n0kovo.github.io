@@ -20,7 +20,7 @@ order: 1
 	A huge collection of Hashcat rule files. Probably the largest publicly available anywhere.
 
 * ### [SSID Keyspace Table](https://github.com/narkopolo/ssid-keyspace-table)
-	A lookup table of common (Danish) WiFi router SSIDs with their corresponding router model, WPA key examples, keyspace, format, estimated cracking time and default web interface credentials. **Example**: Seeing *Telenor3225CF* in the wild? Consulting this table will reveal that it's probably a Technicolor TG788vn v2 router using a default WPA keyspace of A-F0-9 and a length of 11 characters, which is crackable in under 40 hours using hashcat on an EC2 GPU instance. The data was sourced from pictures of used routers for sale on [www.dba.dk](https://www.dba.dk).
+	A lookup table of common (Danish) WiFi router SSIDs with their corresponding router model, WPA key examples, keyspace, format, estimated cracking time and default web interface credentials. **Example**: Seeing *Telenor3225CF* in the wild? Consulting this table will reveal that it's probably a Technicolor TG788vn v2 router using a default WPA keyspace of A-F0-9 and a length of 11 characters, which is crackable in under 40 hours using hashcat on an EC2 GPU instance. The data was sourced from pictures of used routers for sale on [www.dba.dk](https://www.dba.dk). If the dataset was a bit larger, I would probably turn it into some kind of API.
 	
 * ### [Danish Phone Wordlist Generator](https://github.com/narkopolo/danish_phone_wordlist_generator)
 	A tool for generating wordlists of Danish phone numbers by area and/or usage (Mobile, landline etc.) Useful for password cracking or fuzzing Danish targets.
