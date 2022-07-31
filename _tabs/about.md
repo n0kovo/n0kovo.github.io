@@ -9,7 +9,7 @@ order: 4
 root@thegibson:/tmp# whoami
 30-something hacker from Denmark
 
-root@thegibson:/tmp# ./interests
+root@thegibson:/tmp# cat interests
 [+] CTF
 [+] Penetration testing
 [+] OSINT
