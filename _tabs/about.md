@@ -28,6 +28,15 @@ root@thegibson:/tmp# cat interests
 [+] Privacy
 [+] Data hoarding
 
+root@thegibson:/tmp# cat cons
+----==Cons I've attended:==---
+[+] Chaos Communication Congress - 31C3, Hamburg (2014)
+[+] Chaos Communication Congress - 32C3, Hamburg (2015)
+[+] Chaos Communication Congress - 33C3, Hamburg (2016)
+[+] Chaos Communication Congress - 34C3, Leipzig (2017)
+[+] Chaos Communication Congress - 35C3, Leipzig (2018)
+[+] Chaos Communication Congress - 36C3, Leipzig (2019)
+
 root@thegibson:/tmp# cat socials
 [+] GitHub = 		https://github.com/narkopolo
 [+] Twitter = 		https://twitter.com/nark0polo
