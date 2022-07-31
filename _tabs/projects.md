@@ -33,7 +33,7 @@ order: 1
 	
 	
 * ### [Jensens Grinder](https://github.com/narkopolo/jensens_grinder/blob/main/jensens_grinder.py)
-	A *very* old Python script I once wrote as a Proof of Concept, back when the Danish restaurant chain [Jensens Bøfhus](https://jensens.com/da/) had a... let's say "poorly thought out" referral program. The script automated the process of registering new accounts with random names and addresses on the webbsite using disposable emails, and refering these accounts from a central account to gain points. These points could then be used in restaurants to pay for food. In a matter of minutes, the script could earn you several hundred dollars worth of points. Included for historic reasons, novelty and lulz-factor. Please don't judge my old code and excessive commenting.
+	A *very* old Python script I once wrote as a Proof of Concept, back when the Danish restaurant chain [Jensens Bøfhus](https://jensens.com/da/) had a... let's say "poorly thought out" referral program. The script automated the process of registering new accounts with random names and addresses on the website using disposable emails, and refering these accounts from a central account to gain points. These points could then be used in restaurants to pay for food. In a matter of minutes, the script could earn you several hundred dollars worth of points. Included for historic reasons, novelty and lulz-factor. Please don't judge my old code and excessive commenting.
 	
 
 
