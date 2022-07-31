@@ -4,12 +4,12 @@
   type: github
   icon: 'fab fa-github'
 -
-  type: twitter
-  icon: 'fab fa-twitter'
+  type: hackthebox
+  icon: 'fa fa-cube'
+  url:  'https://app.hackthebox.com/users/13267'
 -
-  type: email
-  icon: 'fas fa-envelope'
-  noblank: true            # open link in current tab
+  type: twitter
+  icon: 'fab fa-twitter'            # open link in current tab
 -
   type: rss
   icon: 'fas fa-rss'
@@ -17,13 +17,9 @@
 
 # Uncomment and complete the url below to enable more contact options
 # -
-#   type: mastodon
-#   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your mastodon account page
-# -
-#   type: linkedin
-#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Linkedin homepage
+#   type: hackthebox
+#   icon: 'cube'   # icons powered by <https://fontawesome.com/>
+#   url:  'https://app.hackthebox.com/users/13267'                  # Fill with your Linkedin homepage
 # -
 #   type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
