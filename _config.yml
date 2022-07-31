@@ -23,7 +23,7 @@ timezone: Europe/Copenhagen
 
 title: ❯ narkopolo                          # the main title
 
-tagline: Red teamer, CTF player, INFOSEC fiddler, Python dev, cypherpunk 💻⛏️   # it will display as the sub-title
+tagline: Red teamer, CTF player, INFOSEC fiddler, Python dev, cypherpunk 💻⛏️ <img src="test.jpg">    # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
