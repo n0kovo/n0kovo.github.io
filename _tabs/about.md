@@ -7,7 +7,13 @@ order: 5
 
 ```console
 root@thegibson:/tmp# whoami
-30-something hacker from Denmark
+[+] Name: [REDACTED]
+[+] Age: 30-something
+[+] Gender: null
+[+] Location: DK
+[+] Occupation: Hacker
+[+] Highest HTB rank in DK reached: #3
+[+] CVEs: 2
 
 root@thegibson:/tmp# cat interests
 [+] Penetration testing
